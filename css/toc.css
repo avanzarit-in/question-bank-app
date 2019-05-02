@@ -1,0 +1,12 @@
+.toc{
+    color:blue;
+    text-align: center;
+}
+
+.container {
+    column-count: 3;
+  }
+
+  .container p:first-child{
+      margin:0px;
+  }
